@@ -20,7 +20,7 @@ Track your progress, grow streaks, and personalize your experience with themes a
 ## Screenshots
 
 <p float="left">
-  <img src="screenshot/1.png" width="200"/>
+  <img src="screenshot:1.png.PNG" width="300"/>
 </p>
 
 ---
